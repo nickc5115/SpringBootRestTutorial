@@ -1,13 +1,13 @@
-package com.ncarfagno.restTut;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestTutApplication {
+public class PayrollApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestTutApplication.class, args);
+		SpringApplication.run(PayrollApplication.class, args);
 	}
 
 }
